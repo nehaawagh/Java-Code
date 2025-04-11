@@ -27,7 +27,6 @@ class TwoSum {
 	        // Print the result
 	        System.out.println("Indices: [" + result[0] + ", " + result[1] + "]");
 	    }
-	}
+}
 
-	// Your Solution class
 	
