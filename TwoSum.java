@@ -14,8 +14,7 @@ class TwoSum {
         }
         return arr;
     }
-    
-	    public static void main(String[] args) {
+	public static void main(String[] args) {
 	        // Sample input
 	        int[] nums = {2, 7, 11, 15};
 	        int target = 9;
@@ -26,7 +25,7 @@ class TwoSum {
 
 	        // Print the result
 	        System.out.println("Indices: [" + result[0] + ", " + result[1] + "]");
-	    }
+	}
 }
 
 	
